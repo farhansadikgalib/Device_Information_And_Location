@@ -1,0 +1,2 @@
+rootProject.name='Device_Information_And_Location'
+include ':app'
